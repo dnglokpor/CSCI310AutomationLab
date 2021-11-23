@@ -1,0 +1,2 @@
+My Current Status:
+[![Node.js CI](https://github.com/dnglokpor/CSCI310AutomationLab/actions/workflows/node.js.yml/badge.svg)](https://github.com/dnglokpor/CSCI310AutomationLab/actions/workflows/node.js.yml)
