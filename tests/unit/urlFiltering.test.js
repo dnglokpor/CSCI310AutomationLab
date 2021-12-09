@@ -1,4 +1,3 @@
-const { ExpectationFailed } = require("http-errors");
 const filter = require("../../src/filterByTerm");
 
 // Check Filter Function working properly
